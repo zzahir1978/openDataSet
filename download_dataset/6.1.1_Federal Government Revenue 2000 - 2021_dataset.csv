@@ -1,0 +1,331 @@
+﻿Year,Revenue Type,Taxes Type,Taxes Category,RM Million
+2000,Direct Taxes,Income Taxes,Companies,13905
+2001,Direct Taxes,Income Taxes,Companies,20771
+2002,Direct Taxes,Income Taxes,Companies,24642
+2003,Direct Taxes,Income Taxes,Companies,23990
+2004,Direct Taxes,Income Taxes,Companies,24388
+2005,Direct Taxes,Income Taxes,Companies,26381
+2006,Direct Taxes,Income Taxes,Companies,26477
+2007,Direct Taxes,Income Taxes,Companies,32149
+2008,Direct Taxes,Income Taxes,Companies,37741
+2009,Direct Taxes,Income Taxes,Companies,30199
+2010,Direct Taxes,Income Taxes,Companies,36266
+2011,Direct Taxes,Income Taxes,Companies,46888
+2012,Direct Taxes,Income Taxes,Companies,51288
+2013,Direct Taxes,Income Taxes,Companies,58175
+2014,Direct Taxes,Income Taxes,Companies,65240
+2015,Direct Taxes,Income Taxes,Companies,63679
+2016,Direct Taxes,Income Taxes,Companies,63625
+2017,Direct Taxes,Income Taxes,Companies,64465
+2018,Direct Taxes,Income Taxes,Companies,66474
+2019,Direct Taxes,Income Taxes,Companies,63751
+2020,Direct Taxes,Income Taxes,Companies,59385
+2021,Direct Taxes,Income Taxes,Companies,79828.90794
+2000,Direct Taxes,Income Taxes,Individuals,7015
+2001,Direct Taxes,Income Taxes,Individuals,9436
+2002,Direct Taxes,Income Taxes,Individuals,9889
+2003,Direct Taxes,Income Taxes,Individuals,7984
+2004,Direct Taxes,Income Taxes,Individuals,8977
+2005,Direct Taxes,Income Taxes,Individuals,8649
+2006,Direct Taxes,Income Taxes,Individuals,10196
+2007,Direct Taxes,Income Taxes,Individuals,11661
+2008,Direct Taxes,Income Taxes,Individuals,14966
+2009,Direct Taxes,Income Taxes,Individuals,15590
+2010,Direct Taxes,Income Taxes,Individuals,17805
+2011,Direct Taxes,Income Taxes,Individuals,20203
+2012,Direct Taxes,Income Taxes,Individuals,22977
+2013,Direct Taxes,Income Taxes,Individuals,23055
+2014,Direct Taxes,Income Taxes,Individuals,24423
+2015,Direct Taxes,Income Taxes,Individuals,26321
+2016,Direct Taxes,Income Taxes,Individuals,27566
+2017,Direct Taxes,Income Taxes,Individuals,28945
+2018,Direct Taxes,Income Taxes,Individuals,32605
+2019,Direct Taxes,Income Taxes,Individuals,38680
+2020,Direct Taxes,Income Taxes,Individuals,35906
+2021,Direct Taxes,Income Taxes,Individuals,27050.72485
+2000,Direct Taxes,Income Taxes,Petroleum,6010
+2001,Direct Taxes,Income Taxes,Petroleum,9859
+2002,Direct Taxes,Income Taxes,Petroleum,7636
+2003,Direct Taxes,Income Taxes,Petroleum,8466
+2004,Direct Taxes,Income Taxes,Petroleum,11479
+2005,Direct Taxes,Income Taxes,Petroleum,14566
+2006,Direct Taxes,Income Taxes,Petroleum,20674
+2007,Direct Taxes,Income Taxes,Petroleum,20453
+2008,Direct Taxes,Income Taxes,Petroleum,24191
+2009,Direct Taxes,Income Taxes,Petroleum,27231
+2010,Direct Taxes,Income Taxes,Petroleum,18713
+2011,Direct Taxes,Income Taxes,Petroleum,27748
+2012,Direct Taxes,Income Taxes,Petroleum,33934
+2013,Direct Taxes,Income Taxes,Petroleum,29753
+2014,Direct Taxes,Income Taxes,Petroleum,26956
+2015,Direct Taxes,Income Taxes,Petroleum,11559
+2016,Direct Taxes,Income Taxes,Petroleum,8422
+2017,Direct Taxes,Income Taxes,Petroleum,11761
+2018,Direct Taxes,Income Taxes,Petroleum,20082
+2019,Direct Taxes,Income Taxes,Petroleum,20783
+2020,Direct Taxes,Income Taxes,Petroleum,8551
+2021,Direct Taxes,Income Taxes,Petroleum,11569.86406
+2000,Direct Taxes,Income Taxes,Withholding and others,..
+2001,Direct Taxes,Income Taxes,Withholding and others,..
+2002,Direct Taxes,Income Taxes,Withholding and others,..
+2003,Direct Taxes,Income Taxes,Withholding and others,62
+2004,Direct Taxes,Income Taxes,Withholding and others,1275
+2005,Direct Taxes,Income Taxes,Withholding and others,1193
+2006,Direct Taxes,Income Taxes,Withholding and others,1428
+2007,Direct Taxes,Income Taxes,Withholding and others,1395
+2008,Direct Taxes,Income Taxes,Withholding and others,1577
+2009,Direct Taxes,Income Taxes,Withholding and others,1897
+2010,Direct Taxes,Income Taxes,Withholding and others,1667
+2011,Direct Taxes,Income Taxes,Withholding and others,1893
+2012,Direct Taxes,Income Taxes,Withholding and others,2463
+2013,Direct Taxes,Income Taxes,Withholding and others,2317
+2014,Direct Taxes,Income Taxes,Withholding and others,2377
+2015,Direct Taxes,Income Taxes,Withholding and others,2426
+2016,Direct Taxes,Income Taxes,Withholding and others,2695
+2017,Direct Taxes,Income Taxes,Withholding and others,3392
+2018,Direct Taxes,Income Taxes,Withholding and others,3325
+2019,Direct Taxes,Income Taxes,Withholding and others,3293
+2020,Direct Taxes,Income Taxes,Withholding and others,3072
+2021,Direct Taxes,Income Taxes,Withholding and others,6339.859204
+2000,Direct Taxes,Others,n.a.,2226
+2001,Direct Taxes,Others,n.a.,2032
+2002,Direct Taxes,Others,n.a.,2184
+2003,Direct Taxes,Others,n.a.,2514
+2004,Direct Taxes,Others,n.a.,2584
+2005,Direct Taxes,Others,n.a.,2754
+2006,Direct Taxes,Others,n.a.,2798
+2007,Direct Taxes,Others,n.a.,3738
+2008,Direct Taxes,Others,n.a.,3663
+2009,Direct Taxes,Others,n.a.,3458
+2010,Direct Taxes,Others,n.a.,4558
+2011,Direct Taxes,Others,n.a.,5510
+2012,Direct Taxes,Others,n.a.,6275
+2013,Direct Taxes,Others,n.a.,7223
+2014,Direct Taxes,Others,n.a.,7747
+2015,Direct Taxes,Others,n.a.,7785
+2016,Direct Taxes,Others,n.a.,7300
+2017,Direct Taxes,Others,n.a.,7461
+2018,Direct Taxes,Others,n.a.,7548
+2019,Direct Taxes,Others,n.a.,8216
+2020,Direct Taxes,Others,n.a.,8191
+2021,Direct Taxes,Others,n.a.,5326.503997
+2000,Indirect Taxes,Export duties,Total,1032
+2001,Indirect Taxes,Export duties,Total,867
+2002,Indirect Taxes,Export duties,Total,803
+2003,Indirect Taxes,Export duties,Total,1156
+2004,Indirect Taxes,Export duties,Total,1599
+2005,Indirect Taxes,Export duties,Total,2086
+2006,Indirect Taxes,Export duties,Total,2361
+2007,Indirect Taxes,Export duties,Total,2322
+2008,Indirect Taxes,Export duties,Total,2779
+2009,Indirect Taxes,Export duties,Total,1152
+2010,Indirect Taxes,Export duties,Total,1810
+2011,Indirect Taxes,Export duties,Total,2081
+2012,Indirect Taxes,Export duties,Total,1968
+2013,Indirect Taxes,Export duties,Total,1930
+2014,Indirect Taxes,Export duties,Total,1893
+2015,Indirect Taxes,Export duties,Total,1039
+2016,Indirect Taxes,Export duties,Total,980
+2017,Indirect Taxes,Export duties,Total,1355
+2018,Indirect Taxes,Export duties,Total,1600
+2019,Indirect Taxes,Export duties,Total,1126
+2020,Indirect Taxes,Export duties,Total,802
+2021,Indirect Taxes,Export duties,Total,2057.063357
+2000,Indirect Taxes,Export duties,Petroleum,996
+2001,Indirect Taxes,Export duties,Petroleum,831
+2002,Indirect Taxes,Export duties,Petroleum,768
+2003,Indirect Taxes,Export duties,Petroleum,1106
+2004,Indirect Taxes,Export duties,Petroleum,1539
+2005,Indirect Taxes,Export duties,Petroleum,2029
+2006,Indirect Taxes,Export duties,Petroleum,2325
+2007,Indirect Taxes,Export duties,Petroleum,2271
+2008,Indirect Taxes,Export duties,Petroleum,2703
+2009,Indirect Taxes,Export duties,Petroleum,1104
+2010,Indirect Taxes,Export duties,Petroleum,1745
+2011,Indirect Taxes,Export duties,Petroleum,1997
+2012,Indirect Taxes,Export duties,Petroleum,1928
+2013,Indirect Taxes,Export duties,Petroleum,1632
+2014,Indirect Taxes,Export duties,Petroleum,1577
+2015,Indirect Taxes,Export duties,Petroleum,989
+2016,Indirect Taxes,Export duties,Petroleum,673
+2017,Indirect Taxes,Export duties,Petroleum,938
+2018,Indirect Taxes,Export duties,Petroleum,1513
+2019,Indirect Taxes,Export duties,Petroleum,1091
+2020,Indirect Taxes,Export duties,Petroleum,..
+2021,Indirect Taxes,Export duties,Petroleum,..
+2000,Indirect Taxes,Export duties,Others,36
+2001,Indirect Taxes,Export duties,Others,36
+2002,Indirect Taxes,Export duties,Others,35
+2003,Indirect Taxes,Export duties,Others,50
+2004,Indirect Taxes,Export duties,Others,60
+2005,Indirect Taxes,Export duties,Others,57
+2006,Indirect Taxes,Export duties,Others,36
+2007,Indirect Taxes,Export duties,Others,51
+2008,Indirect Taxes,Export duties,Others,76
+2009,Indirect Taxes,Export duties,Others,48
+2010,Indirect Taxes,Export duties,Others,65
+2011,Indirect Taxes,Export duties,Others,84
+2012,Indirect Taxes,Export duties,Others,40
+2013,Indirect Taxes,Export duties,Others,298
+2014,Indirect Taxes,Export duties,Others,316
+2015,Indirect Taxes,Export duties,Others,50
+2016,Indirect Taxes,Export duties,Others,307
+2017,Indirect Taxes,Export duties,Others,417
+2018,Indirect Taxes,Export duties,Others,120
+2019,Indirect Taxes,Export duties,Others,35
+2020,Indirect Taxes,Export duties,Others,..
+2021,Indirect Taxes,Export duties,Others,..
+2000,Indirect Taxes,Import duties ,n.a.,3599
+2001,Indirect Taxes,Import duties ,n.a.,3193
+2002,Indirect Taxes,Import duties ,n.a.,3669
+2003,Indirect Taxes,Import duties ,n.a.,3919
+2004,Indirect Taxes,Import duties ,n.a.,3874
+2005,Indirect Taxes,Import duties ,n.a.,3385
+2006,Indirect Taxes,Import duties ,n.a.,2678
+2007,Indirect Taxes,Import duties ,n.a.,2424
+2008,Indirect Taxes,Import duties ,n.a.,2635
+2009,Indirect Taxes,Import duties ,n.a.,2114
+2010,Indirect Taxes,Import duties ,n.a.,1966
+2011,Indirect Taxes,Import duties ,n.a.,2026
+2012,Indirect Taxes,Import duties ,n.a.,2282
+2013,Indirect Taxes,Import duties ,n.a.,2524
+2014,Indirect Taxes,Import duties ,n.a.,2670
+2015,Indirect Taxes,Import duties ,n.a.,2732
+2016,Indirect Taxes,Import duties ,n.a.,2905
+2017,Indirect Taxes,Import duties ,n.a.,2784
+2018,Indirect Taxes,Import duties ,n.a.,2897
+2019,Indirect Taxes,Import duties ,n.a.,2733
+2020,Indirect Taxes,Import duties ,n.a.,2035
+2021,Indirect Taxes,Import duties ,n.a.,2644.759544
+2000,Indirect Taxes,Excise,n.a.,3803
+2001,Indirect Taxes,Excise,n.a.,4129
+2002,Indirect Taxes,Excise,n.a.,4745
+2003,Indirect Taxes,Excise,n.a.,5031
+2004,Indirect Taxes,Excise,n.a.,6828
+2005,Indirect Taxes,Excise,n.a.,9321
+2006,Indirect Taxes,Excise,n.a.,8577
+2007,Indirect Taxes,Excise,n.a.,8991
+2008,Indirect Taxes,Excise,n.a.,10683
+2009,Indirect Taxes,Excise,n.a.,10068
+2010,Indirect Taxes,Excise,n.a.,11770
+2011,Indirect Taxes,Excise,n.a.,11517
+2012,Indirect Taxes,Excise,n.a.,12187
+2013,Indirect Taxes,Excise,n.a.,12193
+2014,Indirect Taxes,Excise,n.a.,12925
+2015,Indirect Taxes,Excise,n.a.,11890
+2016,Indirect Taxes,Excise,n.a.,11705
+2017,Indirect Taxes,Excise,n.a.,10112
+2018,Indirect Taxes,Excise,n.a.,10779
+2019,Indirect Taxes,Excise,n.a.,10511
+2020,Indirect Taxes,Excise,n.a.,8507
+2021,Indirect Taxes,Excise,n.a.,10240.56643
+2000,Indirect Taxes,Sales tax,n.a.,5968
+2001,Indirect Taxes,Sales tax,n.a.,7356
+2002,Indirect Taxes,Sales tax,n.a.,9244
+2003,Indirect Taxes,Sales tax,n.a.,7965
+2004,Indirect Taxes,Sales tax,n.a.,6816
+2005,Indirect Taxes,Sales tax,n.a.,7709
+2006,Indirect Taxes,Sales tax,n.a.,6532
+2007,Indirect Taxes,Sales tax,n.a.,6642
+2008,Indirect Taxes,Sales tax,n.a.,8374
+2009,Indirect Taxes,Sales tax,n.a.,8603
+2010,Indirect Taxes,Sales tax,n.a.,8171
+2011,Indirect Taxes,Sales tax,n.a.,8577
+2012,Indirect Taxes,Sales tax,n.a.,9496
+2013,Indirect Taxes,Sales tax,n.a.,10068
+2014,Indirect Taxes,Sales tax,n.a.,10939
+2015,Indirect Taxes,Sales tax,n.a.,5223
+2016,Indirect Taxes,Sales tax,n.a.,103
+2017,Indirect Taxes,Sales tax,n.a.,47
+2018,Indirect Taxes,Sales tax,n.a.,3971
+2019,Indirect Taxes,Sales tax,n.a.,15385
+2020,Indirect Taxes,Sales tax,n.a.,12095
+2021,Indirect Taxes,Sales tax,n.a.,13598.38073
+2000,Indirect Taxes,Service tax,n.a.,1701
+2001,Indirect Taxes,Service tax,n.a.,1926
+2002,Indirect Taxes,Service tax,n.a.,2214
+2003,Indirect Taxes,Service tax,n.a.,2038
+2004,Indirect Taxes,Service tax,n.a.,2350
+2005,Indirect Taxes,Service tax,n.a.,2582
+2006,Indirect Taxes,Service tax,n.a.,2685
+2007,Indirect Taxes,Service tax,n.a.,3013
+2008,Indirect Taxes,Service tax,n.a.,3345
+2009,Indirect Taxes,Service tax,n.a.,3344
+2010,Indirect Taxes,Service tax,n.a.,3926
+2011,Indirect Taxes,Service tax,n.a.,4982
+2012,Indirect Taxes,Service tax,n.a.,5583
+2013,Indirect Taxes,Service tax,n.a.,5944
+2014,Indirect Taxes,Service tax,n.a.,6278
+2015,Indirect Taxes,Service tax,n.a.,3038
+2016,Indirect Taxes,Service tax,n.a.,103
+2017,Indirect Taxes,Service tax,n.a.,15
+2018,Indirect Taxes,Service tax,n.a.,1473
+2019,Indirect Taxes,Service tax,n.a.,12283
+2020,Indirect Taxes,Service tax,n.a.,12438
+2021,Indirect Taxes,Service tax,n.a.,12017.66954
+2000,Indirect Taxes,Good and services tax,n.a.,..
+2001,Indirect Taxes,Good and services tax,n.a.,..
+2002,Indirect Taxes,Good and services tax,n.a.,..
+2003,Indirect Taxes,Good and services tax,n.a.,..
+2004,Indirect Taxes,Good and services tax,n.a.,..
+2005,Indirect Taxes,Good and services tax,n.a.,..
+2006,Indirect Taxes,Good and services tax,n.a.,..
+2007,Indirect Taxes,Good and services tax,n.a.,..
+2008,Indirect Taxes,Good and services tax,n.a.,..
+2009,Indirect Taxes,Good and services tax,n.a.,..
+2010,Indirect Taxes,Good and services tax,n.a.,..
+2011,Indirect Taxes,Good and services tax,n.a.,..
+2012,Indirect Taxes,Good and services tax,n.a.,..
+2013,Indirect Taxes,Good and services tax,n.a.,..
+2014,Indirect Taxes,Good and services tax,n.a.,..
+2015,Indirect Taxes,Good and services tax,n.a.,27012
+2016,Indirect Taxes,Good and services tax,n.a.,41206
+2017,Indirect Taxes,Good and services tax,n.a.,44290
+2018,Indirect Taxes,Good and services tax,n.a.,20236
+2019,Indirect Taxes,Good and services tax,n.a.,..
+2020,Indirect Taxes,Good and services tax,n.a.,..
+2021,Indirect Taxes,Good and services tax,n.a.,..
+2000,Indirect Taxes,Others,n.a.,1914
+2001,Indirect Taxes,Others,n.a.,1922
+2002,Indirect Taxes,Others,n.a.,1835
+2003,Indirect Taxes,Others,n.a.,1766
+2004,Indirect Taxes,Others,n.a.,1880
+2005,Indirect Taxes,Others,n.a.,1968
+2006,Indirect Taxes,Others,n.a.,2225
+2007,Indirect Taxes,Others,n.a.,2380
+2008,Indirect Taxes,Others,n.a.,2944
+2009,Indirect Taxes,Others,n.a.,2847
+2010,Indirect Taxes,Others,n.a.,2863
+2011,Indirect Taxes,Others,n.a.,3460
+2012,Indirect Taxes,Others,n.a.,3190
+2013,Indirect Taxes,Others,n.a.,2770
+2014,Indirect Taxes,Others,n.a.,2758
+2015,Indirect Taxes,Others,n.a.,2736
+2016,Indirect Taxes,Others,n.a.,2733
+2017,Indirect Taxes,Others,n.a.,3031
+2018,Indirect Taxes,Others,n.a.,3070
+2019,Indirect Taxes,Others,n.a.,3805
+2020,Indirect Taxes,Others,n.a.,2278
+2021,Indirect Taxes,Others,n.a.,3029.164489
+2000,Non-Tax Revenue,n.a.,n.a.,14691
+2001,Non-Tax Revenue,n.a.,n.a.,18076
+2002,Non-Tax Revenue,n.a.,n.a.,16654
+2003,Non-Tax Revenue,n.a.,n.a.,27717
+2004,Non-Tax Revenue,n.a.,n.a.,27347
+2005,Non-Tax Revenue,n.a.,n.a.,25710
+2006,Non-Tax Revenue,n.a.,n.a.,36916
+2007,Non-Tax Revenue,n.a.,n.a.,44717
+2008,Non-Tax Revenue,n.a.,n.a.,46896
+2009,Non-Tax Revenue,n.a.,n.a.,52135
+2010,Non-Tax Revenue,n.a.,n.a.,50138
+2011,Non-Tax Revenue,n.a.,n.a.,50534
+2012,Non-Tax Revenue,n.a.,n.a.,56270
+2013,Non-Tax Revenue,n.a.,n.a.,57418
+2014,Non-Tax Revenue,n.a.,n.a.,56421
+2015,Non-Tax Revenue,n.a.,n.a.,53649
+2016,Non-Tax Revenue,n.a.,n.a.,43078
+2017,Non-Tax Revenue,n.a.,n.a.,42748
+2018,Non-Tax Revenue,n.a.,n.a.,58821
+2019,Non-Tax Revenue,n.a.,n.a.,83849
+2020,Non-Tax Revenue,n.a.,n.a.,74010
+2021,Non-Tax Revenue,n.a.,n.a.,51121.99625
